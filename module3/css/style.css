@@ -1,0 +1,29 @@
+section{
+    
+    border: 2px solid ;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 5%;
+}
+
+#Chicken{
+    background-color: grey;
+}
+
+#Beef{
+    background-color: beige;
+}
+
+#Sushi{
+    background-color: burlywood;
+}
+
+h3{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h2{
+    margin-top: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
